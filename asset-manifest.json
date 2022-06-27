@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Records/static/css/main.ab23e42a.css",
+    "main.js": "/Records/static/js/main.09ef75fb.js",
+    "static/media/medicals.jpg": "/Records/static/media/medicals.9cdec247fb778d9ae4f7.jpg",
+    "index.html": "/Records/index.html",
+    "main.ab23e42a.css.map": "/Records/static/css/main.ab23e42a.css.map",
+    "main.09ef75fb.js.map": "/Records/static/js/main.09ef75fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab23e42a.css",
+    "static/js/main.09ef75fb.js"
+  ]
+}
