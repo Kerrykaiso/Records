@@ -1,0 +1,58 @@
+ body{
+    background-image: url(/public/imagess/medicals.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-color: rgba(0, 0, 0, 0.63);
+ }
+.container{
+    display: flex;
+     width: 100%;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+.form{
+    width: 500px;
+     height: 100%;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+input{
+    width: 50%;
+    padding: 15px;
+    border-radius: 9px;
+    border: none;
+    margin: 20px;
+}
+img{
+    height: 100px;
+}
+.cover{
+    background-color: rgb(65, 62, 62);
+    width: 600px;
+    height: 400px;
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    box-shadow: 4px 4px 10px black;
+  opacity: 0.9;
+}
+ 
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(7, 146, 146);
+    width: 55%;
+
+}
+@media screen and (max-width: 520px) {
+    .cover{
+      width: 300px
+    }
+   
+}
